@@ -1,1 +1,3 @@
-# SVV_project
+# flutter_application
+
+A new Flutter project.
